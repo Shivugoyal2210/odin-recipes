@@ -1,2 +1,1 @@
-# odin-recipes
-Recipes
+This project showcases my knowledge of the html coding language. This website will be about some recipes
